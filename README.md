@@ -1,4 +1,4 @@
-wk9 project House Price Prediction
+# wk9 project House Price Prediction
 
 ## Description
 A Regression type prediction model using *Random Forest Regressor* algorithm. It uses R², MSE (Mean Squared Error) as the metric for prediction.
